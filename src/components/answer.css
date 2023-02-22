@@ -1,0 +1,16 @@
+
+.answer {
+    border: solid black 1px;
+    width: 350px;
+    height: 250px;
+}
+
+.answer-content {
+    height: 150px;
+    width: 100%;
+}
+
+.answer-confidence {
+    height: 100%;
+    width: 100%;
+}
